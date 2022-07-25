@@ -7,3 +7,7 @@ https://5ca9af4645e15.streamlock.net:443/impactovision/videoimpactovision/playli
 https://teleplay.mediaflix.istream.mx/livestream/teleplay/livesd/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="113077" tvg-name="Mix 24-7" tvg-logo="https://lh3.googleusercontent.com/-mOgOT3QHduQ/XxcP0slOnxI/AAAAAAAA3KI/s0jjr5v_hUsKOLXgjwJM3uZ88HJDjR7bQCK8BGAsYHg/s0/2020-07-21.png", Mix 24-7
 http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/1.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="05" tvg-name="HBO" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/01/HBO-Logo.jpg", HBO
+https://cvi.cdn.rcs.net.ar/mnp/hbo_hls/track_0_1500/playlist.m3u8
+#EXTINF:-1 tvg-id="05" tvg-name="HBO" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/01/HBO-Logo.jpg", HBO
+https://prd.jwpltx.com/v1/jwplayer6/ping.gif?h=990365832&e=s&n=0406840830127060&aid=eGDB2EujEeKZwiIACp8kUw&amp=0&at=1&c=-1&ccp=0&cp=0&d=1&eb=0&ed=6&emi=16vn0ovbvdtx&i=1&lid=97psbn1k34zw&lsa=set&mt=0&pbd=1&pbr=1&pgi=mw638c1o60h6&ph=0&pii=0&pl=523&plc=1&pli=1fs9nfldm3hv&pp=hlsjs&ppm=LIVE&prc=1&ps=4&pss=1&pt=Reproductor&pu=https%3A%2F%2Fwww.television-libre.com%2F&pv=8.25.0&pyc=1&s=0&sdk=0&stc=1&stpe=0&t=TELEVISION%20LIBRE.COM&tv=3.39.0&vb=1&vi=1&vl=90&wd=930&abm=1&bwe=500&cae=0&cct=0&cdid=player&drm=0&ff=2640&fsm=0&l=0&lng=es&mk=hls&mu=%2F%2Fcvi.cdn.rcs.net.ar%2Fmnp%2Fhbo_hls%2Fplaylist.m3u8&pcp=0&pd=2&pdt=2022-07-25T18%3A19%3A35Z&plng=es&pni=0&pr=2&q=0&qcr=initial%20choice&sbr=637&sp=0&strt=2650&tb=4&tt=0&vd=0&vh=360&vs=5&vw=640&sa=1658773151076
