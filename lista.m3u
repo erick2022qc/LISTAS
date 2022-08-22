@@ -17,3 +17,21 @@ https://d2byzrnrdb259r.cloudfront.net/hls/live_480p30.m3u8
 
 #EXTINF:-1 tvg-logo="https://acortar.link/kZ0AXS", 6 CS TELEVISION
 https://public-prod-dspcookiematching.dmxleo.com/dmx?target=https%3A%2F%2Fdmxleo.dailymotion.com/cdn/manifest/video/x7vh8g3.m3u8%3Fauth%3Dx%26cs%3Ddmx_[CSDATA]&dmaid=0f51ee0d-7529-4d26-a65a-5dfbb02acb7d
+
+#EXTINF:-1 tvg-logo="https://n9.cl/lrvuk", 7 BOLIVIA TV
+https://5ca39be538307.streamlock.net/boliviatv/videoboliviatv/chunklist_w747731267.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMi8yMDIyIDk6NDU6MzAgUE0maGFzaF92YWx1ZT1QZWdZRDNtdFZGa3BCbUYwY3BYRTFRPT0mdmFsaWRtaW51dGVzPTUwJmlkPQ%3D%3D
+
+#EXTINF:-1 tvg-logo="https://n9.cl/6h4ns", 9 ATB
+https://stream-04.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOm9lyihlXyykAx-AE6_6U1tB5sjc7qToInP4_V8dmHT0)/dm/3/x84eirw/d/live-0.m3u8#cell=lnyc
+
+#EXTINF:-1 tvg-logo="https://acortar.link/GThf96", 11 RED UNO
+https://stream-04.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLhRCkxt72wHTp3E7wVB_NGRnk3omHoPdWW_SKfp4ntUX)/dm/3/x828xvr/d/live-1.m3u8#cell=lnyc
+
+#EXTINF:-1,SEO HD_ch15
+https://panel.seo.tv.bo:3645/live/franzleonel0live.m3u8
+
+#EXTINF:-1,SEO KIDS HD_ch16
+https://panel.seo.tv.bo:3182/live/franzleonellive.m3u8
+
+#EXTINF:-1,SEO TELENOVELAS HD_ch17
+https://panel.seo.tv.bo:3337/live/franzbalboa2live.m3u8
