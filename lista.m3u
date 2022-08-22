@@ -4,13 +4,10 @@
 https://stmv.panel.grupolimalive.com/uniteltv/uniteltv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://tvmi.com.bo/wp-content/uploads/sites/2/2018/11/unitellogonew.png" group-title="TV BOLIVIA", 2 UNITEL BOL
-https://public-prod-dspcookiematching.dmxleo.com/dmx?target=https%3A%2F%2Fdmxleo.dailymotion.com/cdn/manifest/video/x7wzxiw.m3u8%3Fauth%3Dx%26cs%3Ddmx_[CSDATA]&dmaid=0f51ee0d-7529-4d26-a65a-5dfbb02acb7d
+https://stream-01.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl9FbbA0D7slH_H8EFRbafyx6d-4nTCTrKf73yLM8sIor)/dm/3/x7wzxiw/s/live-3.m3u8#cell=lnyc
 
-#EXTINF:-1 tvg-logo="http://www.rtpbolivia.com.bo/wp-content/uploads/sites/18/2021/05/logo-blanco-300x155.png" group-title="Entretenimiento", 4 RTP
-http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-kfD0CCHYLgk/WzC_zZa573I/AAAAAAAAGMo/WfOkH868ZM0r-iwPnvU46aOT7lvBM-SAwCLcBGAs/s1600/Willax%2Btv%2Ben%2Bvivo.png" group-title="Entretenimiento", 23132131243_Willax
-http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-3.m3u
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dLuDslZ.jpg" group-title="Entretenimiento", COLOR VISION
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dLuDslZ.jpg" group-title="TV AVIERTA", COLOR VISION
 https://stream-03.nyc.dailymotion.com/sec(O-7bth6lxCIslucX64-RY_vV24X6gN7n1mLLTR4kdy2IHRsHtmTX-GXSs3R-M1XJ)/dm/3/x7gy059/d/live-2.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.rtpbolivia.com.bo/wp-content/uploads/sites/18/2021/05/logo-blanco-300x155.png" group-title="TV BOLIVIA", 4 RTP
+http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8
